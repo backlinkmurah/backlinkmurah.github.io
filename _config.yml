@@ -20,12 +20,12 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           https://www.blogsot.my.id
+      site:           https://www.blogsot.my.id
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            ""
+      email:          https://www.blogsot.my.id
+      twitter:        https://www.blogsot.my.id
 
 # Defaults
 defaults:
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: blogsot.my.id
       avatar: /assets/images/avatar1.jpg
       
   # all pages
